@@ -3,6 +3,6 @@ java -jar api.jar --spring.config.location=C:\Workspace\Accelerator\api\src\main
 
 java -jar <Path to collector-name.jar> --spring.config.name=<prefix for properties> --spring.config.location=<path to properties file location>
 
-java -jar 
+java -jar github-scm-collector.jar
 
 java -jar github-scm-collector.jar --spring.config.name=github --spring.config.location=C:\Workspace\Accelerator\hygieia-scm-github-collector-master\target
